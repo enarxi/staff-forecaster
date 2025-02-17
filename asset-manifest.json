@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/staff-forecaster/static/js/main.8b1c565a.js",
+    "index.html": "/staff-forecaster/index.html",
+    "main.8b1c565a.js.map": "/staff-forecaster/static/js/main.8b1c565a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8b1c565a.js"
+  ]
+}
