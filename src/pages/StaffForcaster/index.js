@@ -36,6 +36,10 @@ const StaffForecaster = () => {
   const reset = (a) => {
     a.stopPropagation();
     setPage(1);
+    setRoomTypes([]);
+    setRoomCredits({});
+    setQuota(0);
+    setResult(0);
   };
   return (
     <>
