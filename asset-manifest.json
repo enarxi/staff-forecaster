@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/staff-forecaster/static/js/main.2944d9bc.js",
+    "main.js": "/staff-forecaster/static/js/main.30e2e99c.js",
     "index.html": "/staff-forecaster/index.html",
-    "main.2944d9bc.js.map": "/staff-forecaster/static/js/main.2944d9bc.js.map"
+    "main.30e2e99c.js.map": "/staff-forecaster/static/js/main.30e2e99c.js.map"
   },
   "entrypoints": [
-    "static/js/main.2944d9bc.js"
+    "static/js/main.30e2e99c.js"
   ]
 }
